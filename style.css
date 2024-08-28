@@ -341,6 +341,7 @@ p {
 }
 .footer_description{
     padding: 20px;
+    background-color:  rgb(255, 144, 14 ,0.10);
     margin: 20px;
 
 }
