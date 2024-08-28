@@ -332,6 +332,7 @@ padding: 30px;
     
     gap: 30px;
     grid-template-columns: repeat(2,1fr);
+    padding: 10px;
 }
 .footer_design{
     margin-bottom: 50px;
