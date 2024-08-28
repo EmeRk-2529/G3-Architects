@@ -236,7 +236,9 @@ hr{
         padding: 20px;
     }
     .banner_description{
-        font-size: 12px;
+        /* font-size: 12px; */
+        font-size: 9px;
+
         line-height:20px;
     }
     .second_design{
@@ -278,9 +280,7 @@ hr{
     font-size: 30px;
     text-align: center;
 }
-.second_description{
-    text-align: center;
-}
+
 .box_container{
     
         display: grid;
@@ -349,9 +349,9 @@ p {
 .title_feature1{
     text-align: center;
 }
-.second_description1{
-    font-size: 11px;
-    line-height: 18px;
+.second_description, .second_description1{
+    font-size: 9px;
+    line-height: 20px;
     text-align: center;
     /* padding: 0px 10px; */
 }
