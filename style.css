@@ -359,10 +359,11 @@ p {
 }
 .img_lady{
     
-        width: 350px;
-        margin: 0px 20px;
-        /* padding: 0px 20px; */
-        padding: 0px 13px;
+    width: 350px;
+    margin: 0px 11px;
+    /* padding: 0px 20px; */
+    padding: 0px 0px;
+}
 }
 .sticker{
     
